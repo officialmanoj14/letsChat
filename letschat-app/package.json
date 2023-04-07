@@ -21,7 +21,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "sever": "json-server -w db.json -p 8080",
+    "server": "json-server -w db.json -p 8080",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
